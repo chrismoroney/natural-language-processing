@@ -1,2 +1,2 @@
 # natural-language-processing
- An example of using NLP
+Examples of NLP
